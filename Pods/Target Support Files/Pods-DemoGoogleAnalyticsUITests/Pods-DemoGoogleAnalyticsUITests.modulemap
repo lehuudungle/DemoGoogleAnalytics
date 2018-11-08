@@ -1,0 +1,6 @@
+framework module Pods_DemoGoogleAnalyticsUITests {
+  umbrella header "Pods-DemoGoogleAnalyticsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
